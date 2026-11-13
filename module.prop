@@ -1,0 +1,6 @@
+id=hyper_assistant_persist
+name=HyperOS 助手持久化（电源键→数字助理）
+version=v1.0.0
+versionCode=1
+author=ZCode
+description=开机/解锁/软重启后自动恢复被 HyperOS 重置的数字助理设置与长按电源键行为（power_button_long_press），使长按电源键唤起谷歌数字助理。常驻巡检可配置，兼容 KernelSU / Magisk。
